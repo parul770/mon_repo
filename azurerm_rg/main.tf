@@ -1,5 +1,5 @@
-resource "azurerm_resource_group" "pandey-rg" {
-  name     = "kp.rg"
+resource "azurerm_resource_group" "manisha" {
+  name     = "parleg"
   location = "eastus"
 }
 
